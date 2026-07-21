@@ -1,0 +1,13 @@
+/.Xil/
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.log
+*.jou
+*.str
+*.sdk/
+*.vitis/
+*.xsa
